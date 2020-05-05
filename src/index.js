@@ -1,0 +1,35 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import * as serviceWorker from './serviceWorker';
+import 'tachyons'
+import App from './containers/App.js'
+import '../node_modules/leaflet/dist/leaflet.css';
+
+
+
+ReactDOM.render(
+  <div>
+    <App />
+  </div>,
+  document.getElementById('root')
+);
+
+
+
+
+
+
+
+
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+serviceWorker.unregister();
+
+
+
+
+
+// fetch('http://api.open-notify.org/iss-now.json')
+// .then (Response => Response.json())
