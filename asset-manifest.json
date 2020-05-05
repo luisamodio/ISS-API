@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/luisamodio/ISS-APIstatic/css/main.b80da113.chunk.css",
-    "main.js": "/luisamodio/ISS-APIstatic/js/main.1bf64b44.chunk.js",
-    "main.js.map": "/luisamodio/ISS-APIstatic/js/main.1bf64b44.chunk.js.map",
-    "runtime-main.js": "/luisamodio/ISS-APIstatic/js/runtime-main.66ec5683.js",
-    "runtime-main.js.map": "/luisamodio/ISS-APIstatic/js/runtime-main.66ec5683.js.map",
-    "static/css/2.5eba9e68.chunk.css": "/luisamodio/ISS-APIstatic/css/2.5eba9e68.chunk.css",
-    "static/js/2.c3cc6bfc.chunk.js": "/luisamodio/ISS-APIstatic/js/2.c3cc6bfc.chunk.js",
-    "static/js/2.c3cc6bfc.chunk.js.map": "/luisamodio/ISS-APIstatic/js/2.c3cc6bfc.chunk.js.map",
-    "index.html": "/luisamodio/ISS-APIindex.html",
-    "precache-manifest.3948decef1185b895f891571695a972b.js": "/luisamodio/ISS-APIprecache-manifest.3948decef1185b895f891571695a972b.js",
-    "service-worker.js": "/luisamodio/ISS-APIservice-worker.js",
-    "static/css/2.5eba9e68.chunk.css.map": "/luisamodio/ISS-APIstatic/css/2.5eba9e68.chunk.css.map",
-    "static/css/main.b80da113.chunk.css.map": "/luisamodio/ISS-APIstatic/css/main.b80da113.chunk.css.map",
-    "static/js/2.c3cc6bfc.chunk.js.LICENSE.txt": "/luisamodio/ISS-APIstatic/js/2.c3cc6bfc.chunk.js.LICENSE.txt"
+    "main.css": "/ISS-API/static/css/main.b80da113.chunk.css",
+    "main.js": "/ISS-API/static/js/main.d95f989a.chunk.js",
+    "main.js.map": "/ISS-API/static/js/main.d95f989a.chunk.js.map",
+    "runtime-main.js": "/ISS-API/static/js/runtime-main.46f6d925.js",
+    "runtime-main.js.map": "/ISS-API/static/js/runtime-main.46f6d925.js.map",
+    "static/css/2.5eba9e68.chunk.css": "/ISS-API/static/css/2.5eba9e68.chunk.css",
+    "static/js/2.c3cc6bfc.chunk.js": "/ISS-API/static/js/2.c3cc6bfc.chunk.js",
+    "static/js/2.c3cc6bfc.chunk.js.map": "/ISS-API/static/js/2.c3cc6bfc.chunk.js.map",
+    "index.html": "/ISS-API/index.html",
+    "precache-manifest.2554717090fd9ef55f526bbec63e9e0b.js": "/ISS-API/precache-manifest.2554717090fd9ef55f526bbec63e9e0b.js",
+    "service-worker.js": "/ISS-API/service-worker.js",
+    "static/css/2.5eba9e68.chunk.css.map": "/ISS-API/static/css/2.5eba9e68.chunk.css.map",
+    "static/css/main.b80da113.chunk.css.map": "/ISS-API/static/css/main.b80da113.chunk.css.map",
+    "static/js/2.c3cc6bfc.chunk.js.LICENSE.txt": "/ISS-API/static/js/2.c3cc6bfc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.66ec5683.js",
+    "static/js/runtime-main.46f6d925.js",
     "static/css/2.5eba9e68.chunk.css",
     "static/js/2.c3cc6bfc.chunk.js",
     "static/css/main.b80da113.chunk.css",
-    "static/js/main.1bf64b44.chunk.js"
+    "static/js/main.d95f989a.chunk.js"
   ]
 }
