@@ -14,8 +14,8 @@ class App extends Component {
 
     
     componentDidMount() {
-        setInterval(() => {
-            fetch('http://api.open-notify.org/iss-now.json')
+        
+        fetch('http://api.open-notify.org/iss-now.json')
         .then (Response => {return Response.json()})
         .then (data => {
             this.setState({
@@ -23,8 +23,17 @@ class App extends Component {
                 latitude: data.iss_position.latitude,
             })
         })
-        .then (fetch ('https://www.openstreetmap.org/#map=6/22.238/-96.746')
-            .then(Response => {return Response.json()}))
+
+    
+        setInterval(() => {
+        fetch('http://api.open-notify.org/iss-now.json')
+        .then (Response => {return Response.json()})
+        .then (data => {
+            this.setState({
+                longitude: data.iss_position.longitude,
+                latitude: data.iss_position.latitude,
+            })
+        })
         }, 5000);
     }
 
