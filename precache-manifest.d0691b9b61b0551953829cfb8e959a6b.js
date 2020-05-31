@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3d7536502c40be6aa1157943314b22d",
+    "revision": "fa781ddcdb1e26eada3b14a5ea80b10a",
     "url": "/ISS-API/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ISS-API/static/css/2.5eba9e68.chunk.css"
   },
   {
-    "revision": "09fad0243a5b8b4534b7",
+    "revision": "94d692a3bc8bf82fd831",
     "url": "/ISS-API/static/css/main.b80da113.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ISS-API/static/js/2.806d363a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09fad0243a5b8b4534b7",
-    "url": "/ISS-API/static/js/main.581f8533.chunk.js"
+    "revision": "94d692a3bc8bf82fd831",
+    "url": "/ISS-API/static/js/main.7138b576.chunk.js"
   },
   {
     "revision": "d18a75af7ebd2fd4bbb8",
