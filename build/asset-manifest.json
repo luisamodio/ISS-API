@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/ISS-API/static/css/main.b80da113.chunk.css",
-    "main.js": "/ISS-API/static/js/main.d95f989a.chunk.js",
-    "main.js.map": "/ISS-API/static/js/main.d95f989a.chunk.js.map",
+    "main.js": "/ISS-API/static/js/main.581f8533.chunk.js",
+    "main.js.map": "/ISS-API/static/js/main.581f8533.chunk.js.map",
     "runtime-main.js": "/ISS-API/static/js/runtime-main.46f6d925.js",
     "runtime-main.js.map": "/ISS-API/static/js/runtime-main.46f6d925.js.map",
     "static/css/2.5eba9e68.chunk.css": "/ISS-API/static/css/2.5eba9e68.chunk.css",
-    "static/js/2.c3cc6bfc.chunk.js": "/ISS-API/static/js/2.c3cc6bfc.chunk.js",
-    "static/js/2.c3cc6bfc.chunk.js.map": "/ISS-API/static/js/2.c3cc6bfc.chunk.js.map",
+    "static/js/2.806d363a.chunk.js": "/ISS-API/static/js/2.806d363a.chunk.js",
+    "static/js/2.806d363a.chunk.js.map": "/ISS-API/static/js/2.806d363a.chunk.js.map",
     "index.html": "/ISS-API/index.html",
-    "precache-manifest.2554717090fd9ef55f526bbec63e9e0b.js": "/ISS-API/precache-manifest.2554717090fd9ef55f526bbec63e9e0b.js",
+    "precache-manifest.3290fdc7ac54b4aef4aa3604edd19dc9.js": "/ISS-API/precache-manifest.3290fdc7ac54b4aef4aa3604edd19dc9.js",
     "service-worker.js": "/ISS-API/service-worker.js",
     "static/css/2.5eba9e68.chunk.css.map": "/ISS-API/static/css/2.5eba9e68.chunk.css.map",
     "static/css/main.b80da113.chunk.css.map": "/ISS-API/static/css/main.b80da113.chunk.css.map",
-    "static/js/2.c3cc6bfc.chunk.js.LICENSE.txt": "/ISS-API/static/js/2.c3cc6bfc.chunk.js.LICENSE.txt"
+    "static/js/2.806d363a.chunk.js.LICENSE.txt": "/ISS-API/static/js/2.806d363a.chunk.js.LICENSE.txt",
+    "static/media/ISS_emblem.png": "/ISS-API/static/media/ISS_emblem.fba7e73c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.46f6d925.js",
     "static/css/2.5eba9e68.chunk.css",
-    "static/js/2.c3cc6bfc.chunk.js",
+    "static/js/2.806d363a.chunk.js",
     "static/css/main.b80da113.chunk.css",
-    "static/js/main.d95f989a.chunk.js"
+    "static/js/main.581f8533.chunk.js"
   ]
 }

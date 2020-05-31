@@ -15,26 +15,28 @@ class App extends Component {
     
     componentDidMount() {
         
-        fetch('http://api.open-notify.org/iss-now.json')
+        // fetch('http://api.open-notify.org/iss-now.json')
+        fetch('https://api.wheretheiss.at/v1/satellites/25544')
         .then (Response => {return Response.json()})
         .then (data => {
             this.setState({
-                longitude: data.iss_position.longitude,
-                latitude: data.iss_position.latitude,
+                longitude: data.longitude,
+                latitude: data.latitude,
             })
         })
 
     
         setInterval(() => {
-        fetch('http://api.open-notify.org/iss-now.json')
+        // fetch('http://api.open-notify.org/iss-now.json')
+        fetch('https://api.wheretheiss.at/v1/satellites/25544')
         .then (Response => {return Response.json()})
         .then (data => {
             this.setState({
-                longitude: data.iss_position.longitude,
-                latitude: data.iss_position.latitude,
+                longitude: data.longitude,
+                latitude: data.latitude,
             })
         })
-        }, 5000);
+        }, 1000);
     }
 
 
