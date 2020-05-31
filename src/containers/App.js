@@ -50,7 +50,7 @@ class App extends Component {
                     <Header />
                 </div>
                 <div>
-                    <p>The current location of the ISS is longitude: {this.state.longitude}, latitude {this.state.latitude} (Updates every 5 seconds...)</p>
+                    <p>The current location of the ISS is longitude: {this.state.longitude}, latitude {this.state.latitude} (Updates every second...)</p>
                     <Chart longitude={this.state.longitude} latitude={this.state.latitude} />
                 </div>
             </div>
